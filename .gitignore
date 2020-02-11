@@ -1,0 +1,12 @@
+/Log/err.log
+/Log/log.log
+/Report/html/
+/Report/xml/
+/.idea/
+/.idea/*
+/.pytest_cache/
+*/.pytest_cache/
+.idea/
+__pycache__/
+*/__pycache__/
+.DS_Store
